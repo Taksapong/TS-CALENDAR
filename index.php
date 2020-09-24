@@ -45,5 +45,10 @@ Calendar Plan
   <a href="https://calendar.google.com/calendar/embed?src=tw.ckdthai%40gmail.com&ctz=Asia%2FBangkok" target="new"><img src="TW.jpg" width="300" height="380" alt="TW" /></a>
 </p>
 <hr align="left" width="915" size="3" />
+	<h1>ขั้นตอนการ Confirm Calendar</h1>
+	<p>1.ตรวจสอบวันว่างของ TS แต่ล่ะคนที่ต้องการ</p>
+	<p>2.เมื่อได้วันที่ต้องการ ให้โทรหา TS เพื่อนัดหมาย Confirm</p>
+	<p>3.TS ทำการ Booking Calendar</p>
+	<p>4.ตรวจสอบ Confirm Calendar อีกครั้ง</p>
 </body>
 </html>
