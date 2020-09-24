@@ -20,7 +20,7 @@ body {
 }
 body {
 	color: #093;
-	background-color: #E5E5E5;
+	background-color: #2C3E50;
 }
 body {
 	font-family: Georgia, "Times New Roman", Times, serif;
@@ -33,16 +33,17 @@ body {
 Calendar Plant" />
 </head>
 Technical Service<br />
-Calendar Plant
-<hr align="left" width="915" size="3" />
-<a href="https://calendar.google.com/calendar/embed?src=l4514s646c4757uptq9qrlonhg%40group.calendar.google.com&ctz=Asia%2FBangkok" target="new"><img src="ALL.jpg" width="915" height="250" alt="ALL" /></a>
+Calendar Plan
+<hr align="left" width="915" size="4" />
 <p><a href="https://calendar.google.com/calendar/embed?src=nw.ckdthai%40gmail.com&ctz=Asia%2FBangkok" target="new"><img src="NW.jpg" width="300" height="380" alt="NC" /></a>
   <a href="https://calendar.google.com/calendar/embed?src=tc.ckdthai%40gmail.com&ctz=Asia%2FBangkok" target="new"><img src="TC.jpg" width="300" height="380" alt="TC" /></a>
   <a href="https://calendar.google.com/calendar/embed?src=np.ckdthai%40gmail.com&ctz=Asia%2FBangkok" target="new"><img src="NP.jpg" width="300" height="380" alt="NS" /></a>
 </p>
+<hr align="left" width="915" size="4" />	
 <p><a href="https://calendar.google.com/calendar/embed?src=taksapong.may%40gmail.com&ctz=Asia%2FBangkok" target="new"><img src="TK.jpg" width="300" height="380" alt="TK" /></a>
   <a href="https://calendar.google.com/calendar/embed?src=sp.ckdthai%40gmail.com&ctz=Asia%2FBangkok" target="new"><img src="SP.jpg" width="300" height="380" alt="SP" /></a>
   <a href="https://calendar.google.com/calendar/embed?src=tw.ckdthai%40gmail.com&ctz=Asia%2FBangkok" target="new"><img src="TW.jpg" width="300" height="380" alt="TW" /></a>
 </p>
+<hr align="left" width="915" size="4" />
 </body>
 </html>
