@@ -20,7 +20,7 @@ body {
 }
 body {
 	color: #093;
-	background-color: #1C2833;
+	background-color: #454545;
 }
 body {
 	font-family: Georgia, "Times New Roman", Times, serif;
