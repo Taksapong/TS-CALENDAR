@@ -41,8 +41,7 @@ Calendar Plan
 </p>
 <hr align="left" width="915" size="3" />	
 <p><a href="https://calendar.google.com/calendar/embed?src=taksapong.may%40gmail.com&ctz=Asia%2FBangkok" target="new"><img src="TK.jpg" width="300" height="380" alt="TK" /></a>
-  <a href="https://calendar.google.com/calendar/embed?src=sp.ckdthai%40gmail.com&ctz=Asia%2FBangkok" target="new"><img src="SP.jpg" width="300" height="380" alt="SP" /></a>
-  <a href="https://calendar.google.com/calendar/embed?src=tw.ckdthai%40gmail.com&ctz=Asia%2FBangkok" target="new"><img src="TW.jpg" width="300" height="380" alt="TW" /></a>
+   <a href="https://calendar.google.com/calendar/embed?src=tw.ckdthai%40gmail.com&ctz=Asia%2FBangkok" target="new"><img src="TW.jpg" width="300" height="380" alt="TW" /></a>
 </p>
 <hr align="left" width="915" size="3" />
 	<h1>ขั้นตอนการ Confirm Calendar</h1>
